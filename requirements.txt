@@ -6,6 +6,6 @@ pandas
 xarray
 matplotlib
 nbformat
-escape-fel
+escape-fel[fit]      # [fit] adds lmfit
 ipympl==0.10.0
 ipywidgets==8.1.9
